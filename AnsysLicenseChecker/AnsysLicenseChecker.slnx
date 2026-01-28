@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AnsysLicenseChecker.vcxproj" Id="6b3c9874-76eb-473d-ad36-077779a2d40e" />
+</Solution>
